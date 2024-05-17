@@ -3,8 +3,6 @@
 **🌐 Front-End Developer**  
 📍 Mashhad, Iran
 
-[![GitHub followers](https://img.shields.io/github/followers/AmirrMahmoudi?style=social)](https://github.com/AmirrMahmoudi)
-[![GitHub stars](https://img.shields.io/github/stars/AmirrMahmoudi?style=social)](https://github.com/AmirrMahmoudi)
 
 Welcome to my GitHub profile! I am a passionate front-end developer focused on building responsive and interactive web applications. Here you can find some of my projects and contributions.
 
@@ -37,8 +35,7 @@ A dashboard template for managing administrative tasks, built with React.
 A simple pizza builder application demonstrating best practices in React and TypeScript.
 
 ## 📫 Contact
-- **Email:** [amirrmahmoudi@gmail.com](mailto:amirrmahmoudi@gmail.com)
-- **LinkedIn:** [Amirhossein Mahmoudi](https://www.linkedin.com/in/amirrmahmoudi/)
-- **Website:** [amirhossein.dev](https://amirhossein.dev) (example)
+- **Email:** [amirhosssein.js@gmail.com](mailto:amirhosssein.js@gmail.com)
+- **Website:** [amirhossein.dev](https://amirhossein.dev)
 
 Feel free to reach out if you have any questions or collaboration ideas!
